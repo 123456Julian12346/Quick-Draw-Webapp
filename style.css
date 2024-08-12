@@ -1,0 +1,8 @@
+body{
+    background-color: darkslategray;
+}
+
+#score{
+    font-size: 100%;
+    margin-right: 300px;
+}
